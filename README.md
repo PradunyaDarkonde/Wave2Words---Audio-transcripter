@@ -35,13 +35,13 @@ git clone https://github.com/yourusername/Wave2Words.git
 cd Wave2Words
 ```
 ### 2. Backend Setup  
-  1.Configure your Gemini API key in src/main/resources/application.properties:
-    gemini.api.key=YOUR_API_KEY
-    gemini.api.url=https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent
-  2.Build and run the backend:
-    mvn clean install
-    mvn spring-boot:run
-Backend runs at: http://localhost:8080
+    1.Configure your Gemini API key in src/main/resources/application.properties:
+      gemini.api.key=YOUR_API_KEY
+      gemini.api.url=https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent
+    2.Build and run the backend:
+      mvn clean install
+      mvn spring-boot:run
+      Backend runs at: http://localhost:8080
 ---
 
 ### 3. Frontend Setup
