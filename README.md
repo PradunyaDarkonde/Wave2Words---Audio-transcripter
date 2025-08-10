@@ -94,9 +94,9 @@ For major changes, open an issue first to discuss what you would like to change.
 This project is licensed under the MIT License.
 
 --- 
-Acknowledgements
-Spring Boot
-React
-Vite
-Gemini API
+Acknowledgements  
+Spring Boot  
+React  
+Vite  
+Gemini API  
 
